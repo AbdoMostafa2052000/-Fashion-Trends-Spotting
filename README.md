@@ -42,17 +42,6 @@ The raw data collected is processed to remove noise and irrelevant information. 
 #### Sentiment Analysis
 Sentiment analysis is performed using natural language processing (NLP) techniques. We classify comments as positive, negative, or neutral to understand the overall sentiment towards different fashion items.
 
-#### Prediction Model
-Using the sentiment data, we build a machine learning model to predict customer preferences and demands. The model is trained and evaluated using various performance metrics.
-
-### Results
-The results of the sentiment analysis and the performance of the prediction model are documented here. This section includes visualizations and key findings from the analysis.
-
-### Conclusion
-A summary of the project's outcomes and the effectiveness of the sentiment analysis in predicting customer preferences. This section also discusses any limitations encountered during the project.
-
-### Future Work
-Potential areas for improvement and future research directions are outlined. This includes suggestions for enhancing the data collection process, improving the prediction model, and expanding the scope of the analysis.
 
 ### Installation
 Instructions for setting up the project locally:
